@@ -1,0 +1,15 @@
+{
+  "name": "hive-hub",
+  "version": "0.1.0",
+  "description": "HIVE Hub — CRM for insurance brokers (MVP), with home service and construction verticals on the way.",
+  "main": "server.js",
+  "engines": {
+    "node": ">=22.5.0"
+  },
+  "scripts": {
+    "start": "node server.js",
+    "seed": "node seed.js"
+  },
+  "license": "UNLICENSED",
+  "private": true
+}
